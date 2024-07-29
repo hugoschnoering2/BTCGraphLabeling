@@ -1,0 +1,13 @@
+
+path_threads: "BitcoinTalkThreads"
+path_other_sources: "LabelingOtherSources"
+path_chatgpt_resps: "resps"
+max_files_per_folder: 100000
+
+openai_key: ""
+openai_model: "gpt-4o-mini"
+
+do_deposit: true
+do_withdraw: true
+do_withdraw2: true
+do_hot_cold: true

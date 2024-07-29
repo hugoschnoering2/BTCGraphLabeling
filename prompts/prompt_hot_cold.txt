@@ -1,0 +1,10 @@
+Services and businesses use a combination of both hot and cold wallets to balance security and convenience.
+A hot wallet might be used for day-to-day transactions and to hold a smaller amount of cryptocurrency needed for regular activities.
+The majority of funds, especially larger amounts that are meant for long-term holding, are stored in a cold wallet to minimize the risk of unauthorized access.
+The objective is to identify hot and cold wallets / addresses and the corresponding service. Analyze the post and title to deduce the entity or website of the service.
+$btc_address_i is an alias for address number i, and $btc_txid_i is an alias for transaction number i.
+In the response, avoid summarizing the post, maintain brevity, and use the format:
+"""
+Reasoning: <insert your reasoning here>
+Addresses: <insert list of tuples (address alias of the form ''$btc_tx_id_i', entity)>
+"""

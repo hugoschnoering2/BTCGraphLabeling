@@ -1,0 +1,18 @@
+Deposit addresses are Bitcoin addresses generated and controlled by a service to enable their clients to deposit funds and utilize the service. Some can be utilized by non-individual entities, while others are individual and are assigned to specific clients. Clients deposit funds into these addresses using bitcoins from their personal self-custodial wallet.
+Sometimes, deposit transactions are described, indicating the fund origin addresses, the destination addresses, the amount of bitcoins sent.
+If a transaction is provided and the poster mentions a problem with a deposit then the transaction is a deposit transaction.
+Deposit addresses usually form a subset of these destination addresses. In such cases, deposit addresses can be inferred from the deposit transaction description in the following ways:
+-If all output addresses except one are used as input, the remaining address is the deposit address.
+-If the deposit amount is mentioned, the deposit address is the output address that received (approximately) this amount.
+If a deposit is mentioned, along with an address without further context, this address is likely to be the deposit address.
+A deposit address is not used to receive a withdrawal/payout/refund or to receive a payment (e.g. from auction/sale) or a ransom.
+The goal is to identify deposit addresses and the respective service controlling them. Do not include addresses that are not deposit addresses, only return addresses that are deposit addresses without ambiguity. Attempt to deduce the entity/website of the service by analyzing the post and the title.
+Addresses that are provided to participate in a signature campaign are not deposit addresses.
+$btc_address_i is an alias for the address number i. $btc_tx_id_i is an alias for the tx number i.
+In the response, do not summarize the post, stay brief and use the format:
+"""
+Reasoning: <insert here your reasoning>
+Entity: <insert the service name if detected>
+Type of entity: <insert 'exchange', 'gambling', 'ponzi', 'faucet', 'mixer', 'mining', 'marketplace', 'ransomware' if detected>
+Deposit addresses: <insert here the detected deposit addresses>
+"""

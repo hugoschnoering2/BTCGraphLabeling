@@ -1,0 +1,11 @@
+Users typically deposit funds on Bitcoin-related services using deposit addresses provided by the service.
+Upon completing their use of the service, users can withdraw funds to either their self-custodial address or another service.
+The objective is to identify withdrawal transactions, transaction ids, and the corresponding service. Analyze the post and title to deduce the entity or website of the service.
+$btc_address_i is an alias for address number i, and $btc_tx_id_i is an alias for transaction number i.
+In the response, avoid summarizing the post, maintain brevity, and use the format:
+"""
+Reasoning: <insert your reasoning here>
+Entity: <insert service name if detected>
+Type of entity: <insert 'exchange', 'gambling', 'ponzi', 'faucet', 'mixer', 'mining', 'marketplace', 'ransomware' if detected>
+Withdraw transactions: <insert list of transaction ids>
+"""

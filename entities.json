@@ -1,0 +1,2858 @@
+{
+  "11coin": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "14daily.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "1BITCOIN.WIN": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "1Broker": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "1Fox": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "1xbit": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "1\u00d7bit": {
+    "alias": "1xbit",
+    "category": "GAMBLING"
+  },
+  "24K Casino": {
+    "alias": "24kCasino",
+    "category": "GAMBLING"
+  },
+  "24kCasino": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "4grinz": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "4ponzi.click": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "50BTC": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "6btb.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "777Coin": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "777Dice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "7dayponzi.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "999dice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "ABCPool": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "ANXBTC": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "ASMTIME.COM": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "AUREAVITA": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "AdBit": {
+    "alias": null,
+    "category": null
+  },
+  "Agora Market": {
+    "alias": null,
+    "category": "MARKETPLACE"
+  },
+  "Alien Faucet": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "AltBuddy": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Altilly": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Anonibet": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Anonymixer": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "AntPool": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "Armory": {
+    "alias": null,
+    "category": null
+  },
+  "AroMine.io": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Atomars": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "AutoPonzi": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Avalon Store": {
+    "alias": null,
+    "category": null
+  },
+  "BC Casino": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BCEXER.com": {
+    "alias": null,
+    "category": null
+  },
+  "BETBANKS.COM": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BIT-BENDER": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "BTC China": {
+    "alias": "BTCChina",
+    "category": "EXCHANGE"
+  },
+  "BTC Guild": {
+    "alias": "BTCGuild",
+    "category": "MINING"
+  },
+  "BTC True Ponzi": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "BTC-Flow.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "BTC-PONZI.NET": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "BTC-RAFFLE.COM": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BTC-TC": {
+    "alias": null,
+    "category": "MARKETPLACE"
+  },
+  "BTC-pyramid.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "BTC.sx": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "BTCBooster.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "BTCC": {
+    "alias": "BTCChina",
+    "category": "EXCHANGE"
+  },
+  "BTCC China": {
+    "alias": "BTCChina",
+    "category": "EXCHANGE"
+  },
+  "BTCChina": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "BTCDice.io": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BTCDoubleX": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "BTCGuild": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "BTCJam": {
+    "alias": null,
+    "category": null
+  },
+  "BTCMarkets": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "BTCPOP": {
+    "alias": null,
+    "category": null
+  },
+  "BTCT.co": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "BTCUPDOWN": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BTCade.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BTCdouble.eu": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "BTCglobal.Team": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Bee-Ads.com": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "BestBitcoinOdds.net": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BestCoininv": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "BestMixer": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "BetBaller": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "bitcoin-fog": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "Bitsafe": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "Dicecyclopedia": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BetChain": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BetCoinTM": {
+    "alias": "Betcoin.tm",
+    "category": "GAMBLING"
+  },
+  "BetFury.io": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BetOpen": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BetVIP": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BetVIPpoker": {
+    "alias": "BetVIP",
+    "category": "GAMBLING"
+  },
+  "Betcoin.tm": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BetcoinPoker": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Betcoiner.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Betcrypto.cr": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Betnomi": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Betroar.io": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BetterBets": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "bit-lottery": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BidyBit": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "BikiniDice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BinaryLottery.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Birwo Casino": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Bit Blender": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "Bit Dice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Bit Ponzi": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Bit-Advantage": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Bit-Blender.com": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "Bit-Hash.com": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Bit-Twin.net": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Bit-protext": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Bit-x": {
+    "alias": "bit-x",
+    "category": "EXCHANGE"
+  },
+  "Bit150": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "BitAffNet": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "BitBac": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BitBays": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "BitBizLimited": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "BitBlackRed": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "BitBlender": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "BitBook.biz": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BitChair": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "BitCone.net": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "BitCosmos": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "BitDoubler": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "BitEarn": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "blender.io": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "bitfury": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "boomchange": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "BitEnlarge.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "BitFactory.co": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "BitFunder": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "BitINKA": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "BitKong.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BitLaunder": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "BitLotto": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BitLucky.io": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "BitMarket": {
+    "alias": "Bitmarket",
+    "category": "MARKETPLACE"
+  },
+  "BitMarket.Eu": {
+    "alias": "Bitmarket",
+    "category": "EXCHANGE"
+  },
+  "BitMillions": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BitMit": {
+    "alias": null,
+    "category": "MARKETPLACE"
+  },
+  "BitOBits": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "BitPay": {
+    "alias": null,
+    "category": null
+  },
+  "BitPistol.com": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "BitPlastic": {
+    "alias": null,
+    "category": null
+  },
+  "BitPonzi.Net": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "BitQuick.co": {
+    "alias": null,
+    "category": null
+  },
+  "BitRise.org": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "BitRoulette.org": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BitSmart.co": {
+    "alias": null,
+    "category": null
+  },
+  "BitVortex": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "BitWealth": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "BitWheel.io": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BitWin": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BitZuo.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Bitcoin Fog": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "Bitcoin Suisse AG": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Bitcoin-24": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Bitcoin-24.com": {
+    "alias": "Bitcoin-24",
+    "category": "EXCHANGE"
+  },
+  "Bitcoin-Double.Biz": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Bitcoin-Laundry.com": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "Bitcoin-ScratchTicket.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Bitcoin24": {
+    "alias": "Bitcoin-24",
+    "category": "EXCHANGE"
+  },
+  "BitcoinField.Net": {
+    "alias": null,
+    "category": null
+  },
+  "BitcoinLiveBets.com": {
+    "alias": "bitcoinlivebets",
+    "category": "GAMBLING"
+  },
+  "BitcoinPonzi.io": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "BitcoinSports.eu": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BitcoinStack": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "BitcoinTwice.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "BitcoinVideoCasino.com": {
+    "alias": "bitcoinvideocasino",
+    "category": "GAMBLING"
+  },
+  "Bitcoindoubler.org": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Bitcoinduit": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Bitcoinica": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "BitcoinsX2.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Bitcointrain": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Bitcurex": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Bitdice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Bitdouble.io": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "BiteBTC": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Bitfinex": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Bitfloor": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Bitget": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Bither": {
+    "alias": null,
+    "category": null
+  },
+  "Bitizy": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Bitlevex": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Bitmarket": {
+    "alias": null,
+    "category": "MARKETPLACE"
+  },
+  "Bitminer.io": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "Bitmixer.io": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "Bitplay": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Bitponzi.io": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Bitrichnow": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Bitroll.XYZ": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Bitrush.org": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "BitsForClicks": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "BitsHourly.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Bitsler": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Bitsport": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Bitstamp": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Bitstars.net": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Bitvest.io": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Bitwhisk.io": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "Bitzino.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Black Arrow": {
+    "alias": null,
+    "category": "MARKETPLACE"
+  },
+  "Blackjack.fun": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "BleuTrade": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Block.io": {
+    "alias": null,
+    "category": null
+  },
+  "Blockchain.com": {
+    "alias": null,
+    "category": null
+  },
+  "BrainbossXchange": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Brawker.com": {
+    "alias": null,
+    "category": null
+  },
+  "Btc2xReturn": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Bumba.io": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Butterfly Labs": {
+    "alias": null,
+    "category": "MARKETPLACE"
+  },
+  "Bx2.club": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "ByBit": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "C-CEX": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "CK Pool": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "CKPool-Solo": {
+    "alias": "ckpool",
+    "category": "MINING"
+  },
+  "CLIXCO.IN": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "COINICHIWA": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "CRYPTODOUBLE.COM": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "CaesarBIT.EU": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "CashIntoCoins": {
+    "alias": null,
+    "category": null
+  },
+  "CetoBeto.com": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "Cex.io": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Chain-Bet.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "ChainProfit.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Changelly": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "ChickenStrike": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "ChipMixer": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "CipherMine-PT": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "ClaimWithMe": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "Cloubet": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Cloud-Dice.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "CloudThink.IO": {
+    "alias": null,
+    "category": "MARKETPLACE"
+  },
+  "Cloudhashers": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "Cloudhashing": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "Cloudminer.com": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "Cognitive": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "Coin Royale": {
+    "alias": "CoinRoyale",
+    "category": "GAMBLING"
+  },
+  "Coinsquare": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Coin-Sweeper": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Coin.ph": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "CoinAd.com": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "CoinAdvert.net": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "CoinBingo.co": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "CoinBooster.io": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "CoinClockwork": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "CoinDouble.club": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "CoinGenerator": {
+    "alias": null,
+    "category": null
+  },
+  "CoinLandia": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "CoinMedia": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "coinmixer": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "dream's marketplace": {
+    "alias": null,
+    "category": "MARKETPLACE"
+  },
+  "CoinRoyale": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Paymium": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "satoshinonce": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "CoinTower": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "CoinVegas.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Coinbet.cc": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Coince.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Coindouble.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Coindoubler.net": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Coinex": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Coinjar": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Crypto-Bridge": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Coinomi": {
+    "alias": null,
+    "category": null
+  },
+  "Coinpot": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "Coinroll.it": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Coins-e": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "CoinsDouble.Com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Coinsweeper": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Cointellect": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "Coinut": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Columbia Basin Mining, LLC": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "Crazybit2x.cf": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Crex24": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Cruel poker": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "CryptEarn": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "CryptPonzi": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Cryptbtc.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "CryptcoMiner.com": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "Crypterest": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Cryptex": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Crypto-Trade": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Crypto.Games": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "CryptoBust.io": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "CryptoFATE.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "CryptoMonitor": {
+    "alias": null,
+    "category": null
+  },
+  "CryptoPay": {
+    "alias": null,
+    "category": null
+  },
+  "CryptoPoker": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "CryptoSplit.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "CryptoTreasure.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "CryptoTriple": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "CryptoWin": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "CryptoXChange": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "CryptocoinX2.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Cryptoine.com": {
+    "alias": null,
+    "category": null
+  },
+  "Cryptolemming": {
+    "alias": null,
+    "category": null
+  },
+  "Cryptomex": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Cryptomixer.io": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "Cryptonier.Com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Cryptopia": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Cryptory": {
+    "alias": null,
+    "category": null
+  },
+  "Cryptsy": {
+    "alias": "Cryptsy",
+    "category": "EXCHANGE"
+  },
+  "Cryptxc.com": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Cubefaucet": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "CustomPonzi.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "D-Ermis": {
+    "alias": null,
+    "category": null
+  },
+  "DRILLBIT": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "Da Dice": {
+    "alias": "DaDice",
+    "category": "GAMBLING"
+  },
+  "DaDice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "DaDice.com": {
+    "alias": "DaDice",
+    "category": "GAMBLING"
+  },
+  "Deepbit": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "Deepxbit": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "DiceBet.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Dicecoin.io": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Dicelead.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Dicenow": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "DiffCasino.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Diggit": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "DirectBet": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Dobtc.win": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Double-C.club": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Double-coin.club": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "DoubleBit.Me": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "DoubleBot.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "DoubleMB.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "DoubleMyCoins.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "DoublerCoins.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Dr-Exchanger": {
+    "alias": null,
+    "category": null
+  },
+  "Dragon's Tale": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Dragon\\'s Tale": {
+    "alias": "Dragon's Tale",
+    "category": "GAMBLING"
+  },
+  "Dream Market": {
+    "alias": null,
+    "category": "MARKETPLACE"
+  },
+  "Dual-Hash.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "DuckDice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Duelbits": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "EBitcoinBetting.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "EXMO": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "EarnTomorrow.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "EasyDouble.me": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "EdenDice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Eldorado": {
+    "alias": null,
+    "category": "MARKETPLACE"
+  },
+  "Electrum": {
+    "alias": null,
+    "category": null
+  },
+  "Eligius": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "Emicoin.com": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "EnlargerOk": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "EveryDice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Evolve Markets": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Exwal.com": {
+    "alias": null,
+    "category": null
+  },
+  "EyeOfTigor": {
+    "alias": null,
+    "category": null
+  },
+  "FORTUNEJACK": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "FTX": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Fairlay": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "FastBets": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "FastBitRoulette": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "FastBitRoulette.com": {
+    "alias": "FastBitRoulette",
+    "category": "GAMBLING"
+  },
+  "FastBluff.com": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "FastDice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "FastSlots": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "FaucetGo": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "FaucetHUB": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "FaucetSystem.com": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "Faucetbox": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "Flexybit": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "FlukyBet.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Forex Coral Limited": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "FreeBitFaucet": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "FreeBitco.in": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "FreeBitcoin.Tech": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "FreeSatoshi.com": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "FreeWallet": {
+    "alias": null,
+    "category": null
+  },
+  "GAW Miners": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "GAWminer": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "GLBSE": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "GOCOIN": {
+    "alias": null,
+    "category": null
+  },
+  "GainBTC.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Gamdom": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Gebbit.com": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Gemini": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Getbitcoins.io": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Ghostmixer.cc": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "Go-Overt": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "Goodluck.io": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Gox": {
+    "alias": "Mt.Gox",
+    "category": "EXCHANGE"
+  },
+  "GreenAddress": {
+    "alias": null,
+    "category": null
+  },
+  "GreenPonzi.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "HALEXO": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "HASHBASE": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "HASHNEST": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "HASHOCEAN": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "HashLoot.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Hashie.co": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "Hashkings": {
+    "alias": null,
+    "category": null
+  },
+  "Helix": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "HitBTC": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "HonestDoubler.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Hotbit": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Hourlybit.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "IX Wallet": {
+    "alias": null,
+    "category": null
+  },
+  "Ice-Dice.com": {
+    "alias": "Ice-dice",
+    "category": "GAMBLING"
+  },
+  "Ice-dice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Iconomi": {
+    "alias": null,
+    "category": null
+  },
+  "Indodax": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Inputs.io": {
+    "alias": null,
+    "category": null
+  },
+  "InstaWallet": {
+    "alias": null,
+    "category": null
+  },
+  "Instant-Profit.net": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Intersango": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "InvCrypt.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "JackBitPot.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Jetwin": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "JuggerPonz": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Just-Dice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Kialara": {
+    "alias": null,
+    "category": "MARKETPLACE"
+  },
+  "KINGDICE.COM": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "KLYE": {
+    "alias": null,
+    "category": null
+  },
+  "KRYPTONO": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "KanoPool": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "KnCMiner": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "Koinex": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Kukoin": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Liqui": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "LiveMines.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Livecasino.io": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "LocalXe": {
+    "alias": null,
+    "category": null
+  },
+  "LongTermPaying.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Lucky Bit": {
+    "alias": "LuckyBit",
+    "category": "GAMBLING"
+  },
+  "LuckyB.it": {
+    "alias": "LuckyBit",
+    "category": "GAMBLING"
+  },
+  "LuckyBit": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "LuckyDoubler": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "LuckyFlop.eu": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Luckyballs.io": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Lunamine.com": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "MadPay.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Maidak": {
+    "alias": null,
+    "category": null
+  },
+  "Malubit.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "MegaDice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Mellow Ads": {
+    "alias": "Mellowads",
+    "category": "FAUCET"
+  },
+  "Mellowads": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "Mercatox": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Mercury": {
+    "alias": null,
+    "category": null
+  },
+  "Metaspins.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Mexc": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Microwallet": {
+    "alias": null,
+    "category": null
+  },
+  "MineField": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "MinerFarm": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "MinexPay": {
+    "alias": null,
+    "category": null
+  },
+  "MintDice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "MintLottery": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Mintpal": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "MiracleBets": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "MoneyPak": {
+    "alias": null,
+    "category": null
+  },
+  "MoneyPot": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Mt. Gox": {
+    "alias": "Mt.Gox",
+    "category": "EXCHANGE"
+  },
+  "Mt.Gox": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "MultiDice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "MyBitMine": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "MyCryptoMixer": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "Mycelium": {
+    "alias": null,
+    "category": null
+  },
+  "NOVATRADER": {
+    "alias": null,
+    "category": null
+  },
+  "NextPonzi.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Nexybit": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "NiceHash": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "Nine9.ninja": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "NitroDice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "NovaExchange": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "OCTOPLAY.NET": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "OKCoin": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "OKEx": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "OKPAY": {
+    "alias": null,
+    "category": null
+  },
+  "OTTBTC.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "OddEvenBets.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Open-Ponzi": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Ore-mine": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "Oshi.IO": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "P2PBet": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "PAIDVERTS": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "PB Mining": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "PM Poker": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "PONZIBTC.US": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "PRC": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "PRCDice.eu": {
+    "alias": "PRC",
+    "category": "GAMBLING"
+  },
+  "Paocard.com": {
+    "alias": null,
+    "category": null
+  },
+  "Paradice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Paxful": {
+    "alias": null,
+    "category": null
+  },
+  "Peerbet.org": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "PenguinDice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "PevPot.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Pocket Dice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "PocketDice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "PocketRocketsCasino.eu": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "PonCrypto": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Ponzi.be": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Ponzi130.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Ponzi24.net": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Ponzi247.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "PonziBTC.org": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "PonziCoin": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "PonziCrypto.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "PonziRound.Com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Ponzimatic.net": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Ponziness": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "PotionCoin.com": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "PowerDouble": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Playbetr": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "PrimeDime": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "PureMixer": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "Profit12.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "ProfitDice.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Purse.io": {
+    "alias": null,
+    "category": null
+  },
+  "PurseIO": {
+    "alias": null,
+    "category": null
+  },
+  "Qoinpro": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "QuadrigaCX": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "ROCKBETS.COM": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Recyclix": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "RedStarMining.com": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "Rich Palms Casino": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "RigPool.com": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "RipDice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Rocketpot.io": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "2xponzi": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "5starbtc": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "aex.com": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Rollbit": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "alpha bay": {
+    "alias": "Alphabay",
+    "category": "MARKETPLACE"
+  },
+  "Alphabay": {
+    "alias": null,
+    "category": "MARKETPLACE"
+  },
+  "Rolldice.io": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Rollin": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Roobet": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Royal-bets": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Ro\u0e3foT": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Rundice.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "SATOSHIHYPE.COM": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "SafeDICE": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Samourai": {
+    "alias": null,
+    "category": null
+  },
+  "Sato-Dice.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Satoshi Aces": {
+    "alias": "satoshiaces",
+    "category": "GAMBLING"
+  },
+  "Satoshi Dice": {
+    "alias": "satoshidice",
+    "category": "GAMBLING"
+  },
+  "Satoshi Hero": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "Satoshi Karoshi": {
+    "alias": "satoshi-karoshi",
+    "category": "GAMBLING"
+  },
+  "Satoshi Option": {
+    "alias": "SatoshiOption",
+    "category": "GAMBLING"
+  },
+  "SatoshiBet": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "SatoshiButtons.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "SatoshiCash": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "SatoshiOption": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "SatoshiPyramid.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Satoshicarnival": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Satoshimines": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "SatoshisPalace": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "SealsWithClubs": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Secondstrade": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "ShadowAlexey": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "ShapeShift": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "SheepMarketPlace": {
+    "alias": null,
+    "category": "MARKETPLACE"
+  },
+  "Simpleponzi": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "SixHourPonzi.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Skrill": {
+    "alias": null,
+    "category": null
+  },
+  "SkyHighPoker.co.uk": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Slush Pool": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "SpectroCoin": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Splitt": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "Sportsbet": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Stake": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Super Ponzi": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "SwapMixer": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "SweepCoins": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "SwiftPonzi": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "TERABOX": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "TUMBLER.IO": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "The Rock Trading": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Tidex": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Topbtc": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Tradehill": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "True2X.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Trust wallet": {
+    "alias": null,
+    "category": null
+  },
+  "Trustdice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "TwentyBitcoin": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "UQUID": {
+    "alias": null,
+    "category": null
+  },
+  "US Marshalls": {
+    "alias": null,
+    "category": null
+  },
+  "USADoubleCoinCO": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Unocoin": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "UpDown.BT": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Uphold": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "VIPGAME": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "VirWoX": {
+    "alias": null,
+    "category": null
+  },
+  "Virtex": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "WEX": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "WIN88.ME": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Wallet+": {
+    "alias": null,
+    "category": null
+  },
+  "Walletbit": {
+    "alias": null,
+    "category": null
+  },
+  "WeExchange": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "WeeklyPonzi.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "WheelOfSatoshi.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "WheelofCoin.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Whirlwind": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "Wirex": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "Wishdice.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "WordOfBTC.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "XAPO": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "XAVOA": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "XBTMine": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "YAS.BET": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "YOLOdice.com": {
+    "alias": "YoloDice",
+    "category": "GAMBLING"
+  },
+  "Yobit": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "YoloDice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "ZeusHash": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "ZoomDice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "accumining.com": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "actioncrypto.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "all-dice.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "antminer.biz": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "betcoin.ag": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "betking": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "bigdoublecoin.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Binance": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "bit-mining": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "bit-x": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "bit777": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "bitarex.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "bitcasino": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "bitcoin-central": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "bitcoin-h.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "bitcoin.de": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "bitcoinblackjack.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "bitcoingolem.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "bitcoinjack.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "bitcoinlivebets": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "bitcoinvideocasino": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "bitconnect": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "bitdouble.webnode.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "bitdragon.ltd": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "bitgrail": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "BitMEX": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "bitmixer.info": {
+    "alias": null,
+    "category": "MIXER"
+  },
+  "bitstarz.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "bittrex": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "blockchain.info": {
+    "alias": null,
+    "category": null
+  },
+  "brainwallet": {
+    "alias": null,
+    "category": null
+  },
+  "btc-arbs.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "btc-casino.io": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "btc-e": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "btc-goldmine": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "btc-x16.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "btc.rena-faucet.com": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "btc2double.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "btc45.net": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "btcQuick": {
+    "alias": null,
+    "category": null
+  },
+  "btclicks.com": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "bter": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "bustabit.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "casino.bitcoin.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "casinobit": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "casinobit.net": {
+    "alias": "casinobit",
+    "category": "GAMBLING"
+  },
+  "ckpool": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "ckpool.org": {
+    "alias": "ckpool",
+    "category": "MINING"
+  },
+  "cloudbet": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "coinb.in": {
+    "alias": null,
+    "category": null
+  },
+  "coinbase": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "coinglacier.org": {
+    "alias": null,
+    "category": null
+  },
+  "coinpool.pw": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "cowfaucet.com": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "crashino.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "crypto-x2.top": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "cryptogames.io": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "cryptolotto.xyz": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "cryptothrift.com": {
+    "alias": null,
+    "category": "MARKETPLACE"
+  },
+  "dbet.io": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "dice.ninja": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "dicebitco.in": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "dicenow.com": {
+    "alias": "Dicenow",
+    "category": "GAMBLING"
+  },
+  "doublebit.co.in": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "epay.info": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "eternalbtcponzi": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "f2pool": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "fairspin.ioo": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "farm-mining.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "faucet.bitcoinzebra.com": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "fishbitfish.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "Gate.io": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "genesis-mining.com": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "girlbtc": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "golix": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "greydice.me": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "hugehash.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Huobi": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "junglecasino.io": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "Kraken": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "kucoin": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "localbitcoins": {
+    "alias": null,
+    "category": null
+  },
+  "luckydice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "luckygames": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "lucrebit.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "mBit": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "master-P": {
+    "alias": null,
+    "category": null
+  },
+  "mcxnow.com": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "miniPronzi": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "mtgox": {
+    "alias": "Mt.Gox",
+    "category": "EXCHANGE"
+  },
+  "neodice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "nitrogen": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "onfaucet.com": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "p2pool": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "pnzi.net": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "poloniex": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "ponzi120": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "ponzigame.pw": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "primedice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "pyramining": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "raindoubler": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "satoshi-karoshi": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "satoshiaces": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "satoshicircle": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "satoshidice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "sawdice": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "secondstrade.com": {
+    "alias": "Secondstrade",
+    "category": "GAMBLING"
+  },
+  "silk road": {
+    "alias": null,
+    "category": "MARKETPLACE"
+  },
+  "silkroad": {
+    "alias": "silk road",
+    "category": "MARKETPLACE"
+  },
+  "skybtc": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "soft-mining.net": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "solo.ckpool.org": {
+    "alias": "ckpool",
+    "category": "MINING"
+  },
+  "twobtcoins.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "viaBTC": {
+    "alias": null,
+    "category": "MINING"
+  },
+  "vircurex": {
+    "alias": null,
+    "category": "EXCHANGE"
+  },
+  "virtualcard.us": {
+    "alias": null,
+    "category": null
+  },
+  "weathbet.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "webetcoins.com": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "windice.io": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "www.coins2day.com/faucet-rotator": {
+    "alias": null,
+    "category": "FAUCET"
+  },
+  "xBitNow": {
+    "alias": null,
+    "category": "PONZI"
+  },
+  "xdice-hunter.com": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "yabtcl": {
+    "alias": null,
+    "category": "GAMBLING"
+  },
+  "youbit": {
+    "alias": null,
+    "category": "EXCHANGE"
+  }
+}
